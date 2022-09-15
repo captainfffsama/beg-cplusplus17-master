@@ -3,6 +3,11 @@
 .vscode/
 .history/
 *.pdb
+debug/
+release/
+.qmake.*
+*.user
+Makefile*
 
 ### C++ ###
 # Prerequisites
